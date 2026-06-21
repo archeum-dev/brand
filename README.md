@@ -16,7 +16,7 @@ apps/social/     Social app-specific brand: the cyan sphere icon and its
                  plus the Social wordmark and hover states.
 ```
 
-Non-brand assets — fonts, generic UI icons, design-source files — live
+Non-brand assets - fonts, generic UI icons, design-source files - live
 in each consumer repo under that repo's own `assets/` directory. This
 repo is only for artwork that carries Archeum or Social trademark weight.
 
@@ -55,5 +55,5 @@ the Archeum and Social names, logos, and visual identities remain
 trademarks of the Archeum project and are not granted by the source
 licenses of consumer repos.
 
-If you're forking one of the Archeum apps, rebrand before shipping —
+If you're forking one of the Archeum apps, rebrand before shipping -
 replace the `brand/` submodule reference with your own assets.
